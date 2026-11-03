@@ -1,4 +1,4 @@
-# Awesome for non-programmers
+ข# Awesome for non-programmers
 
 Here comes a list of Open Source projects where you can contribute without any programming knowledge, as well as resources to help you. Ways you can contribute include:
 
